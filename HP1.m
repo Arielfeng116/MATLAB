@@ -12,6 +12,7 @@
 
 function hp = HP1(vector,DT)
 %HP Summary of this function goes here
+%   vector as input time series dataset, resolution conformed with DT parameter
 %   DT is the time interval to be calculated
 %   DT=1(10min); DT=3(30min); DT=6(1hour); 
 %   v1,v2 are the values at Tk and Tk+DT;
